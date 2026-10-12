@@ -1,0 +1,175 @@
+{
+    "platform": "Raccoon Games",
+    "scanned_endpoints": [
+        "/api/airpay/status",
+        "/api/airpay/subscribe",
+        "/api/airpay/unsubscribe",
+        "/api/airpay/verify-otp",
+        "/api/assist/assistscene",
+        "/api/assist/retval",
+        "/api/assist/reveal",
+        "/api/device/devicesCon",
+        "/api/device/getApplyCon",
+        "/api/device/getMsLimit",
+        "/api/device/myDevices",
+        "/api/device/recentDevices",
+        "/api/feedback/problem",
+        "/api/feedback/submit",
+        "/api/handleList",
+        "/api/invite/activity/blind-box/open",
+        "/api/invite/activity/friend-code/bind",
+        "/api/invite/activity/page",
+        "/api/member/channelCardList",
+        "/api/room/areaIsps",
+        "/api/room/inviteGame",,
+        "/api/room/joinRoom",
+        "/api/room/labels",
+        "/api/room/outRoom",
+        "/api/room/playGame",
+        "/api/room/quitRoom",
+        "/api/room/refreshRoomList",
+        "/api/room/roomInfo",
+        "/api/room/roomList",
+        "/api/user/applyDestroy",
+        "/api/user/applyList",
+        "/api/user/bind",
+        "/api/user/changePassword",
+        "/api/user/del",
+        "/api/user/deleteAccount",
+        "/api/user/friendList",
+        "/api/user/headimgChange",
+        "/api/user/info",
+        "/api/user/logout",
+        "/api/user/modifyUser",
+        "/api/user/phoneBind",
+        "/api/user/qqBind",
+        "/api/user/search",
+        "/api/user/sendPasswordResetCode",
+        "/api/user/sendSmsCode",
+        "/api/user/wechatBind",
+        "/archive/v2.0/purchasedList",
+        "/game/noticeBoard",
+        "/goods/channelGoodsList",
+        "/jyapi/cancelQueue",
+        "/jyapi/displayGrade",
+        "/jyapi/getToken",
+        "/jyapi/myqueue",
+        "/jyapi/playGame",
+        "/jyapi/playQueue",
+        "/jyapi/reconPlayGame",
+        "/jyapi/scHangUp",
+        "/jyapi/stopGame",
+        "/jyapi/takePlayGame",
+        "/platform/carddetail",
+        "/platform/cloudgame/gamedetail",
+        "/platform/cloudgame/gamedetail?gid=",
+        "/platform/cloudgame/gamefavorites",
+        "/platform/cloudgame/gamehistorys",
+        "/platform/cloudgame/gameindex",
+        "/platform/cloudgame/gameindex?channel=",
+        "/platform/cloudgame/gamelibrary",
+        "/platform/cloudgame/gamelibrary?channel=",
+        "/platform/cloudgame/gamerecharge",
+        "/platform/cloudgame/gamestore",
+        "/platform/cloudgame/gamestore?channel=",
+        "/platform/cloudgame/search",
+        "/platform/cloudgame/vipgames",
+        "/platform/message_center/detail",
+        "/platform/set/gameassets",
+        "/platform/teamup/userverify",
+        "/userGame/cost",
+        "/users/redeemCode",
+        "/wap/dist/#/platform/cloudgame/gameindex",
+        "/wap/dist/#/platform/room/roomlist"
+    ],
+    "total_games_found": 6,
+    "total_free_games": 6,
+    "free_games": [
+        {
+            "gid": "341",
+            "name": "100 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=341"
+        },
+        {
+            "gid": "344",
+            "name": "300 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=344"
+        },
+        {
+            "gid": "345",
+            "name": "500 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=345"
+        },
+        {
+            "gid": "346",
+            "name": "1000 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=346"
+        },
+        {
+            "gid": "383",
+            "name": "1500 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=383"
+        },
+        {
+            "gid": "388",
+            "name": "3000 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=388"
+        }
+    ],
+    "all_games": [
+        {
+            "gid": "341",
+            "name": "100 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=341"
+        },
+        {
+            "gid": "344",
+            "name": "300 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=344"
+        },
+        {
+            "gid": "345",
+            "name": "500 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": " "
+        },
+        {
+            "gid": "346",
+            "name": "1000 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=346"
+        },
+        {
+            "gid": "383",
+            "name": "1500 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=383"
+        }
+        {
+            "gid": "388",
+            "name": "3000 diamonds",
+            "is_vip": false,
+            "origin": "Endpoint: /goods/channelGoodsList",
+            "link": "https://www.raccoongame.com/wap/dist/#/platform/cloudgame/gamedetail?gid=388"
+        }
+    ]
+}
